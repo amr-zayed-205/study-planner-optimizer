@@ -1,0 +1,16 @@
+[
+  {"id": "C1",  "title": "Basics",                  "time_minutes": 120, "score_value": 8,  "prerequisites": []},
+  {"id": "C2",  "title": "Complexity Analysis",     "time_minutes": 100, "score_value": 6,  "prerequisites": ["C1"]},
+  {"id": "C3",  "title": "Data Structures Intro",   "time_minutes": 140, "score_value": 10, "prerequisites": ["C1"]},
+  {"id": "C4",  "title": "Arrays & Strings",        "time_minutes": 160, "score_value": 12, "prerequisites": ["C3"]},
+  {"id": "C5",  "title": "Linked Lists",            "time_minutes": 130, "score_value": 11, "prerequisites": ["C3"]},
+  {"id": "C6",  "title": "Stacks & Queues",         "time_minutes": 150, "score_value": 12, "prerequisites": ["C3"]},
+  {"id": "C7",  "title": "Trees",                   "time_minutes": 200, "score_value": 15, "prerequisites": ["C4", "C5"]},
+  {"id": "C8",  "title": "Binary Search Trees",     "time_minutes": 180, "score_value": 13, "prerequisites": ["C7"]},
+  {"id": "C9",  "title": "Graphs",                  "time_minutes": 150, "score_value": 16, "prerequisites": ["C6"]},
+  {"id": "C10", "title": "Graph Algorithms",        "time_minutes": 170, "score_value": 18, "prerequisites": ["C9"]},
+  {"id": "C11", "title": "Dynamic Programming",     "time_minutes": 210, "score_value": 20, "prerequisites": ["C2", "C4"]},
+  {"id": "C12", "title": "Greedy",                  "time_minutes": 120, "score_value": 12, "prerequisites": ["C2"]},
+  {"id": "C13", "title": "Backtracking",            "time_minutes": 160, "score_value": 14, "prerequisites": ["C5", "C6"]},
+  {"id": "C14", "title": "Advanced DP",             "time_minutes": 250, "score_value": 22, "prerequisites": ["C11"]}
+]

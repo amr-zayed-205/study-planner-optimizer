@@ -1,0 +1,7 @@
+[
+  {"id": "C1", "title": "Basics", "time_minutes": 120, "score_value": 8,  "prerequisites": []},
+  {"id": "C2", "title": "Data Structures", "time_minutes": 180, "score_value": 12, "prerequisites": ["C1"]},
+  {"id": "C3", "title": "Graphs", "time_minutes": 150, "score_value": 15, "prerequisites": ["C2"]},
+  {"id": "C4", "title": "DP", "time_minutes": 200, "score_value": 18, "prerequisites": ["C2"]},
+  {"id": "C5", "title": "Greedy", "time_minutes": 90,  "score_value": 7,  "prerequisites": ["C1"]}
+]
