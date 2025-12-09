@@ -62,7 +62,7 @@ Install them with:
 pip install -r requirements.txt
 ```
 
-Typical development tools in the file include:
+** Use the libirary **
 
 - black
 - pytest
@@ -216,4 +216,5 @@ This project demonstrates:
 - Ready for GitHub & graduation project
 
 ---
+
 
