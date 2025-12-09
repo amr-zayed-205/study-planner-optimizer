@@ -62,7 +62,7 @@ Install them with:
 pip install -r requirements.txt
 ```
 
-** Use the libirary **
+**Use the libirary**
 
 - black
 - pytest
@@ -216,5 +216,6 @@ This project demonstrates:
 - Ready for GitHub & graduation project
 
 ---
+
 
 
